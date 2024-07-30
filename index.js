@@ -1,5 +1,3 @@
-Hello Everyone!
-This is the new bot.
 const fs = require("fs/promises");
 const { faker } = require("@faker-js/faker");
 const pt = require("puppeteer-extra");
